@@ -131,3 +131,21 @@ Identify demand gaps and emerging trends
 Optimize search and navigation
 
 Support merchandising and brand partnership decisions
+
+
+## 📥 How to Run This Project
+
+1. Clone repository:
+git clone https://github.com/Muhamm
+2. Open `dashboard/Search_Analytics_Dashboard.pbix` in Power BI Desktop.
+
+3. Review the `data/` folder for dataset schema and notes.
+
+4. See `dax/` folder for measure definitions.
+
+5. `screenshots/` contains slide previews of key visuals.
+
+6. `documentation/Search_Analytics_Documentation.pdf` contains business context, KPIs, and definitions.
+ad-Asif-5786/E-Commerce-Analysis.git
+
+
