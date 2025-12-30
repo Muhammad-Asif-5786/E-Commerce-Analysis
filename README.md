@@ -40,6 +40,10 @@ Search result counts
 
 Price and rating filters
 
+#### Dataset link
+
+https://www.kaggle.com/datasets/mohammedasif5786/e-commerce-dataset
+
 # 🧱 Data Modeling
 
 A star schema was implemented for scalability and performance:
